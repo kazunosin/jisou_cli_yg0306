@@ -336,6 +336,9 @@
     margin-right: 1.5rem;
   }
 }
+.footer-block__details-content .list-menu__item--link{
+  font-family: YuGothic,'Yu Gothic',sans-serif;
+}
 
 .footer-block__details-content .list-menu__item--link,
 .copyright__content a {
