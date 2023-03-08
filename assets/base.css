@@ -625,6 +625,7 @@ table:not([class]) th {
   opacity: 0.7;
 }
 
+/*ここのdisplay をnoneにすることでオーバーレイが適用された  */
 a:empty,
 ul:empty,
 dl:empty,
@@ -638,7 +639,7 @@ h3:empty,
 h4:empty,
 h5:empty,
 h6:empty {
-  display: none;
+  display: ;
 }
 
 .link,
