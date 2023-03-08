@@ -252,7 +252,7 @@
         "slide_height": "adapt",
         "text_size": "medium",
         "text_alignment": "center center",
-        "show_overlay": true,
+        "show_overlay": false,
         "auto": false,
         "speed": 5
       }
