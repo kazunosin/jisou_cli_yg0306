@@ -253,7 +253,7 @@
         "text_size": "medium",
         "text_alignment": "center center",
         "show_overlay": false,
-        "auto": false,
+        "auto": true,
         "speed": 3
       }
     }
