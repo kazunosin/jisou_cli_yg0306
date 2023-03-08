@@ -254,7 +254,7 @@
         "text_alignment": "center center",
         "show_overlay": false,
         "auto": false,
-        "speed": 5
+        "speed": 3
       }
     }
   },
